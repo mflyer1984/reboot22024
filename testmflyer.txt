@@ -1,8 +1,0 @@
-git status
-git add
-ddsdadda
-<<<<<<< HEAD
-gfdgfdgd
-=======
-dfsdfsdfsdfsd
->>>>>>> 527d7d7cd284d31261f4c3b115f82848a7fcdf40
