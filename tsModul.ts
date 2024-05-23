@@ -1,6 +1,6 @@
 
-export{};
-let h=2;
+
+let h=15;
 
 function Rng(felsoHatar:number, alsoHatar:number):number{
    let also:number;
